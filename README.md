@@ -4,7 +4,7 @@
 
 👀 I’m interested in music, video games, and solving problems with my programs.  
 
-👷‍ I'm currently working with Lua on a video game called StarBots.  
+👷‍ I'm currently working on a video game called StarBots.  
 
 🌱 I love learning new programming langangues.  
 
