@@ -1,10 +1,10 @@
 # Hi, I’m Bryan Gallardo <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" alt="Waving hello GIF" width="100" height="100"> 
 
+👷‍ I'm currently working on a video game called StarBots.  
+
 👨🏽‍💻 I'm a video game developer and software/web developer from California, USA. 
 
 👀 I’m interested in music, video games, and solving problems with my programs.  
-
-👷‍ I'm currently working on a video game called StarBots.  
 
 🌱 I love learning new programming langangues.  
 
