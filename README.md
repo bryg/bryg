@@ -6,6 +6,6 @@
 
 👀 I’m interested in music, video games, and solving problems with my programs.  
 
-🌱 I love learning new programming langangues.  
+🌱 I love learning new programming languages.  
 
 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" alt="Cat Coding GIF" width="200" height="200"> 
